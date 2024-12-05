@@ -1,5 +1,8 @@
 # Custom Named Entity Recognition (NER) with Conditional Random Fields (CRF)
 
+![Custom NER with CRF]("C:\Users\Pro\Downloads\nlp.jpg")
+
+
 This repository contains a Jupyter Notebook that demonstrates a workflow for developing a custom Named Entity Recognition (NER) model using Conditional Random Fields (CRF). The notebook includes data preprocessing, exploratory data analysis, feature engineering, model building, and evaluation.
 
 ---
